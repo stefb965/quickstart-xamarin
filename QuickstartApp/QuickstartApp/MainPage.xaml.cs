@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Define DEBUG symbol in order Crashes.GenerateTestCrash() to work in release mode
+#define DEBUG
+
+using System;
 using Xamarin.Forms;
 using Microsoft.Azure.Mobile.Crashes;
 
