@@ -262,3 +262,6 @@ __pycache__/
 
 #Xamarin.Forms
 QuickstartApp/QuickstartApp.Android/Resources/Resource.Designer.cs
+
+#Ignore project temp files
+*.bak
