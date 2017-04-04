@@ -8,4 +8,4 @@ This sample app will help you onboard to Mobile Center Build, Analytics and Cras
 3.  Download the repo - This repo contains a basic Xamarin.Forms app setup to play with. Once you download, you should easily be able to run the app in Visual Studio. 
 4.  Edit the app secrets - Once the repo is downloaded, open App.xaml.cs file and edit {IOS_APP_SECRET} and {ANDROID_APP_SECRET} placeholders text with actual app secrets. You can get the value from Getting started page of this app from the portal.
 5.  Run - Once the app is modified, run the app in the simulator. Click on the Crash Me button and open the app again.
-6.  You should now be able to see the Analytics and Crashes data in the portal and build this application on every commit. 
+6.  You should now be able to see the Analytics and Crashes data in the portal and build this application on every commit.
